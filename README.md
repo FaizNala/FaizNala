@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🕵️‍♂️ My name is Faiz Nala Samudera.<br>🏫 I am currently a student at Malang State Polytechnic.<br>🌐 I am interested in the data industry and web development.<br>📚 Currently, I am learning about data analyst and intermediate web development using Laravel.
+🕵️‍♂️ My name is Faiz Nala Samudera.<br>🏫 I am currently a student at Malang State Polytechnic.<br>🌐 I am interested in web development and data industry and .<br>📚 Currently, I am learning web development using Laravel and trying to implement React js in Laravel using Inertia js.
 
 
 ## 🌐 Socials:
